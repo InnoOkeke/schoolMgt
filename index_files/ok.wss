@@ -1,0 +1,53 @@
+<site version="3.0"><css/><components/><page id="p132934640" pageindex="0" name="index" pp="0" cp="0"><body generator="0" bgsoundloop="-1" align="1" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" backgroundcolor="#EBEBEB" title="Result Management System"><Component type="10" id="roundrect1" zorder="0" filename="roundrect132983500" width="1197" height="654" fillstyle="0" spborder="0" fromcolor="#FFFFFF" shapetype="1" radius="20" previewfile="C:\Users\Emi\AppData\Local\Temp\Web Page Maker\doc9KRLL\shape6IJTM.gif" left="28" top="15" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" fp="0"/><Component type="3" id="image1" zorder="1" filename="image133024562" left="59" top="60" width="244" height="63" originwidth="260" originheight="67" src="C:\wamp\www\schoolmanagementsystem\index_files\text827854609.gif" previewfile="C:\wamp\www\schoolmanagementsystem\index_files\text827854609.gif"/><Component type="9" id="hr1" zorder="2" filename="hr133039343" hrsize="4" width="1144" height="17" left="59" top="135" hrcolor="#D4D4D4" noshade="" usimage="0" src="" previewfile=""/><Component type="2" id="text1" zorder="3" filename="text133378171" width="195" height="20" html="" left="62" top="164" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Verdana"&gt;Result Management Area&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Verdana"&gt;Result Management Area&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrdAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdWZXJkYW5hAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5
+bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVk
+CUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0
+IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYN
+UHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2
+cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAz
+IDEgMCAwIDAgMA0KUmVzdWx0IE1hbmFnZW1lbnQgQXJlYQ0K
+</rvf></Component><Component type="15" id="table1" zorder="4" filename="table133496546" newhtml="1" htmlcode="" html="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" width="1196" height="126" left="27" top="691"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#EBEBEB" border=0 bordercolorlight="#C0C0C0" bordercolordark="#808080"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=1066 height=105&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;TABLE bgcolor="#EBEBEB" border=0 bordercolorlight="#C0C0C0" bordercolordark="#808080"&gt;
+&lt;TR valign=top&gt;
+&lt;TD width=1066 height=105&gt;&lt;BR&gt;
+&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;/TABLE&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrdAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdWZXJkYW5hAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5
+bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVk
+CUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0
+IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYN
+UHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2
+cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAt
+NjAgMyAzIDAgMiAiNTM2ODcwOTExLTUzNjg3MDkxMS01MzY4NzA5MTEiIA0KZWRpdHRhYmxlDQox
+DQouAQAAVFBGMApUUlZUYWJsZVNXAAdULkNvbG9yBOvr6wASVC5UZXh0Um93U2VwYXJhdG9yBgIN
+ChJULlRleHRDb2xTZXBhcmF0b3IGAg0KDVQuQm9yZGVyQ29sb3IHBmNsR3JheRJULkJvcmRlckxp
+Z2h0Q29sb3IHCGNsU2lsdmVyDVQuQm9yZGVyU3R5bGUHD3J2dGJSYWlzZWRDb2xvchFULkNlbGxC
+b3JkZXJDb2xvcgcGY2xHcmF5FlQuQ2VsbEJvcmRlckxpZ2h0Q29sb3IHCGNsU2lsdmVyEVQuQ2Vs
+bEJvcmRlclN0eWxlBxBydnRiTG93ZXJlZENvbG9yAUMCAQIBAQIBAgECVEQAC0MuQmVzdFdpZHRo
+AyoEDEMuQmVzdEhlaWdodAJpAAAAAAA=
+</rvf></Component></body></page></site>
